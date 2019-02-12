@@ -1,6 +1,6 @@
 owner=415142691282616330
 prefix=!
-game=Break | !help | Arab Unity xLewis .
+game= Arab Unity | !help | !!xLewis .
 stayinchannel=true
 songinstatus=false
 token=NTQzODQ2NDY5NDMwNjczNDE4.D0R4wQ.rifiNVbDt2ySLmSfOTksRmlPHV4
